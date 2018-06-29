@@ -1,7 +1,7 @@
 # MUSIC_RNN
 Composing music with RNNs
 
-This project trains a recurrent neural network on a dataset of [folk tunes in MIDI format](https://github.com/jukedeck/nottingham-dataset).
+This project trains a recurrent neural network on a dataset of [folk tunes in MIDI format](https://github.com/jukedeck/nottingham-dataset) and composes new music.
 
 A writeup, and examples, are available [here](https://aciupan.github.io/projects#rnn).
 
